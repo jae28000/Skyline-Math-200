@@ -1,4 +1,4 @@
-Timestamp,"Do you go out to hangout with friends more than twice a week, yes or no? 🍃",Do you spend more time online or offline(IRL)?🌿,How many minutes per day do you spend on social media?💚,How many in-person social gatherings or events do you attend per week? 🍵
+Timestamp,hangout_with_friends,online_or_offline,minutes,social_events
 10/26/2023 17:27:30,Yes,Online,1,1
 10/26/2023 17:28:39,Yes,Offline(IRL),335,4
 10/26/2023 17:39:31,Yes,Offline(IRL),120,2
@@ -32,7 +32,7 @@ Timestamp,"Do you go out to hangout with friends more than twice a week, yes or 
 10/26/2023 18:34:26,No,Online,4,1
 10/26/2023 18:36:03,No,Offline(IRL),300,2
 10/26/2023 18:46:48,Yes,Online,140,7
-10/26/2023 18:47:35,Yes,Offline(IRL),3.32,5
+10/26/2023 18:47:35,Yes,Offline(IRL),112,5
 10/26/2023 18:53:19,No,Offline(IRL),45,1
 10/26/2023 18:59:49,Yes,Offline(IRL),145,7
 10/26/2023 19:03:20,Yes,Online,120,2
@@ -106,3 +106,25 @@ Timestamp,"Do you go out to hangout with friends more than twice a week, yes or 
 10/29/2023 19:09:25,Yes,Offline(IRL),144,2
 10/29/2023 20:49:14,Yes,Online,279,4
 10/29/2023 20:50:01,Yes,Offline(IRL),348,2
+10/30/2023 16:07:55,No,Online,4,2
+10/30/2023 16:22:36,Yes,Offline(IRL),60,1
+10/31/2023 1:19:28,Yes,Online,232,5
+10/31/2023 11:25:54,Yes,Online,28,2
+10/31/2023 11:26:47,Yes,Offline(IRL),1,1
+10/31/2023 11:27:10,No,Online,71,1
+10/31/2023 11:27:17,No,Online,120,6
+10/31/2023 11:27:24,Yes,Online,482,1
+10/31/2023 11:27:29,Yes,Offline(IRL),700,1
+10/31/2023 11:27:37,Yes,Offline(IRL),200,1
+10/31/2023 11:28:00,No,Online,156,1
+10/31/2023 11:28:18,Yes,Online,546,2
+10/31/2023 11:28:19,Yes,Offline(IRL),50,2
+10/31/2023 11:28:37,No,Online,69,5
+10/31/2023 11:28:40,No,Online,110,5
+10/31/2023 11:28:54,Yes,Online,60,2
+10/31/2023 11:28:55,Yes,Offline(IRL),4,2
+10/31/2023 11:29:02,Yes,Offline(IRL),300,2
+10/31/2023 11:29:06,Yes,Offline(IRL),103,4
+10/31/2023 11:29:47,No,Offline(IRL),77,2
+10/31/2023 11:31:36,No,Online,77,3
+10/31/2023 11:33:06,No,Online,350,1
